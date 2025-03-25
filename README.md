@@ -28,3 +28,5 @@ This Real-Time Multiplayer Quiz is an interactive web-based quiz game where play
 
 ![image alt](https://github.com/PS1215/QuizMania/blob/d674ac7034280a3c8e6f91971c9982e5f734d0fa/Home%20page%20%2B%20Quiz%20page.png)
 
+
+![image alt](https://github.com/PS1215/QuizMania/blob/13488b3d01c53d3ba32ea8d49af2e8d664a14264/2%20Quiz%20page%20competing.png)
