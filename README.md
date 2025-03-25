@@ -22,3 +22,5 @@ This Real-Time Multiplayer Quiz is an interactive web-based quiz game where play
 
 💡 Ready to take on the challenge? Fork the repo, contribute, or challenge your friends!
 
+![image alt](https://github.com/PS1215/QuizMania/blob/d9ba429abc0736ce75ee6a56f9d1f1a0117b3ff0/Home%20page.png)
+
