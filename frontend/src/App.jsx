@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 import io from 'socket.io-client';
 
- const socket = io("https://quizmania-k36z.onrender.com");
+ const socket = io("https://quizmania-df4y.onrender.com");
 function App() {
   const [name, setName] = useState(null);
   const [room, setRoom] = useState(null);
