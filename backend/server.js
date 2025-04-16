@@ -8,7 +8,7 @@ const server = http.createServer(app);
 app.use(cors());
 const io = socketIo(server, {
    cors: {
-     origin: "https://quizmania-backend-qlcb.onrender.com",
+     origin: "https://quizmania-1-tipc.onrender.com/",
      methods: ["GET", "POST"],
    },
 });
